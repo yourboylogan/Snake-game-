@@ -1,0 +1,27 @@
+.btn{
+    margin-left: 650px;
+}
+
+.logo{
+    width: 200px;
+    height: auto;
+    margin-bottom: 240px;
+    border-radius: 75%;
+    
+}
+
+.user{
+    margin-top: 150px; margin-left: 275px; width: 350px; height: auto;
+}
+
+.container{
+    margin-left: 520px;
+}
+
+.reg{
+    margin-left: 600px;
+}
+
+.log{
+    margin-left: 600px;
+}
